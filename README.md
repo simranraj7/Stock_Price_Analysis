@@ -19,7 +19,7 @@ A dedicated analysis is conducted on Apple's closing stock prices, offering a de
 We perform resampling analysis on closing prices to reveal hidden patterns and trends, shedding light on potential opportunities or risks in the market.
 
 # 6. Correlation Analysis of Tech Companies
-Our project investigates whether there exists a correlation among the closing prices of major tech companies in the S&P 500, namely Amazon, Apple, Google, and Microsoft.
+The project investigates whether there exists a correlation among the closing prices of major tech companies in the S&P 500, namely Amazon, Apple, Google, and Microsoft.
 
 # 7. Correlation Between Daily Change and Daily Returns
 We explore the correlation between the daily changes in closing prices and daily returns of the stocks, providing insights into the volatility and overall market dynamics.
